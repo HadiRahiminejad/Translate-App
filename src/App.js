@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import './styles.css';
 import './App.css';
 import Field from './components/field.js';
 import Translate from './components/translate.js';
